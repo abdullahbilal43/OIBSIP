@@ -1,0 +1,11 @@
+.section{
+    background-color:#008060;
+    position: relative;
+}
+.section .waves{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+}
